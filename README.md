@@ -8,8 +8,5 @@ A responsive and real-feel calculator made with HTML, CSS & JavaScript.
 - CSS3
 - JavaScript
 
-## 📸 Screenshot
-(Add screenshot here)
-
 ## 🚀 Live Demo
 [Click here to try the calculator](https://yourusername.github.io/calculator-app/)
